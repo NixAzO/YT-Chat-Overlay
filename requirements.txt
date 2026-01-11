@@ -1,0 +1,7 @@
+PyQt5
+pytchat
+gTTS
+pygame
+mtranslate
+requests
+beautifulsoup4
